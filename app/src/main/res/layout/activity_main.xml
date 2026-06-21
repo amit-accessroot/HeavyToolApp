@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <!-- आपका ऐप पूरी तरह वाइट और फुल स्क्रीन रहेगा -->
+    <!-- यहाँ आप अपने भारी टूल्स का डिज़ाइन आगे जोड़ सकते हैं -->
+
+</RelativeLayout>
